@@ -25,5 +25,4 @@
 ### 🚀 Em destaque · Featured
 
 - 🌳 [**RS-SSKD**](https://github.com/schoenlucca/RS-SSKD): Mask R-CNN + auto-destilação para segmentar árvores sem anotação · *self-distilled tree crown segmentation*
-- ⚽ [**copa2026-data-science**](https://github.com/schoenlucca/copa2026-data-science): dados da FIFA e modelos para a Copa 2026 · *FIFA data & World Cup 2026 models*
 - 🤖 [**nanoGPT**](https://github.com/schoenlucca/nanoGPT): estudando como treinar um GPT do zero · *studying GPT training from scratch*
